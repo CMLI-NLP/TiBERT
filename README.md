@@ -15,5 +15,6 @@ We conduct text classification experiments on the Tibetan News Classification Co
 ![Performances on document classification](https://github.com/user-attachments/assets/683479ee-a17a-4ab7-ac5c-65c80acffbce)
 
 
-## Cite
-S. Liu, J. Deng, Y. Sun and X. Zhao, "TiBERT: Tibetan Pre-trained Language Model*," 2022 IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2022, pp. 2956-2961, doi: 10.1109/SMC53654.2022.9945074.
+## Link and Cite
+Link:  https://ieeexplore.ieee.org/document/9945074  
+Cite:  S. Liu, J. Deng, Y. Sun and X. Zhao, "TiBERT: Tibetan Pre-trained Language Model*," 2022 IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2022, pp. 2956-2961, doi: 10.1109/SMC53654.2022.9945074.
