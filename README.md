@@ -38,3 +38,7 @@ BibTeX:
   keywords={Vocabulary;Text categorization;Training data;Natural language processing;Data models;Task analysis;Cybernetics;Pre-trained language model;Tibetan;Sentencepiece;TiBERT;Text classification;Question generation},
   doi={10.1109/SMC53654.2022.9945074}}
 ```
+
+## Disclaimer
+
+This dataset/model is for academic research purposes only. Prohibited for any commercial or unethical purposes.
